@@ -14,7 +14,7 @@ This project explores a classic automobile dataset (~205 cars) to understand how
 ---
 
 ## 2) Dataset
-- File: `data/automobile.txt` (CSV-like text used in many EDA tutorials)
+- File: `data/automobile.txt`
 - Rows: ~205; Columns: ~24 (make, body-style, engine-type, cylinders, engine-size, horsepower, peak-rpm, mpg, price, etc.)
 - Quirks: Missing values encoded as `"?"`; some numeric fields stored as text.
 
